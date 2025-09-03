@@ -1,6 +1,6 @@
 //! Start by creating the variables for the data recorded
 //* Then work on the conversion of the temperature from Celsius to Fahrenheit (or viceversa)
-
+console.log('here i am')
 
 //! Start the calculation of the total temperatures
 //* Then apply the conversion to calculate the total in the other unit of measurement
